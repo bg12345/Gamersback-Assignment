@@ -2,6 +2,8 @@
  Interview Assignment
  
  World Happiness Report 2021 - [Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
+ 
+ Deployed on pythonanywhere - [Link](https://bhavangupta242.pythonanywhere.com/)
 
 <h3>Importing World Happiness Report CSV Data to our Database using Django shell</h3>
 
