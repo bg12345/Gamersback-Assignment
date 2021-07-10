@@ -1,7 +1,6 @@
-from rest_framework import generics,status
+from rest_framework import generics
 from .serializers import WorldHappinessReportSerializer
 from .models import WorldHappinessReport
-from rest_framework.response import Response
 
 class DataByCountry(generics.ListAPIView):
     serializer_class = WorldHappinessReportSerializer
