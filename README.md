@@ -1,4 +1,4 @@
-# Gamerback Assignment
+# Gamersback Assignment
  Interview Assignment
  
  World Happiness Report 2021 - [Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
